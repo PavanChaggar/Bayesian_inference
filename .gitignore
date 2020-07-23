@@ -4,3 +4,6 @@ env/
 python_tutorials/.ipynb_checkpoints/
 python_tutorials/.*ipynb
 #
+
+#vscode 
+.vscode
