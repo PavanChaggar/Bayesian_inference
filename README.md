@@ -8,7 +8,7 @@ Specifically, we demonstrate python implementations of the following methods:
 * Metropolis Hastings 
 * Laplace approximation
 
-These methods are covered in three notebooks: 
+These methods are covered in three python notebooks: 
 1. [Bayesian Model Fitting](https://nbviewer.jupyter.org/github/PavanChaggar/Bayesian_inference/blob/master/python_tutorials/Bayesian_Model_Fitting.ipynb)
 2. [Gibbs Sampling](https://nbviewer.jupyter.org/github/PavanChaggar/Bayesian_inference/blob/master/python_tutorials/Gibbs_Sampling.ipynb)
 3. [Nonlinear Models](https://nbviewer.jupyter.org/github/PavanChaggar/Bayesian_inference/blob/master/python_tutorials/Nonlinear_models.ipynb)
