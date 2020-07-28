@@ -26,4 +26,4 @@ end
 likelihood = likelihood!(y, n, σ)
 
 plot(x,likelihood[1,:])
-scatter!(y)
+scatter!(y, zeros(n))
