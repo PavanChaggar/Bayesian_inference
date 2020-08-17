@@ -7,3 +7,6 @@ python_tutorials/.*ipynb
 
 #vscode
 .vscode
+
+#julia 
+julia_tutorials/.ipynb_checkpoints/
