@@ -3,6 +3,7 @@
 env/
 python_tutorials/.ipynb_checkpoints/
 python_tutorials/.*ipynb
+python_tutorials/sbi-logs/
 #
 
 #vscode
@@ -10,3 +11,4 @@ python_tutorials/.*ipynb
 
 #julia 
 julia_tutorials/.ipynb_checkpoints/
+
